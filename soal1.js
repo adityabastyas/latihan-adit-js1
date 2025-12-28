@@ -82,5 +82,5 @@ const {
 } = siswa2;
 
 console.log(nama1);
-console.log(alamat);
+console.log(kota);
 console.log(provinsi);
